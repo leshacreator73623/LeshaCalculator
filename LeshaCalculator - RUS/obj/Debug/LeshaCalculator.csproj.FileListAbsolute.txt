@@ -1,0 +1,22 @@
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\bin\Debug\LeshaCalculator.exe.config
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\bin\Debug\LeshaCalculator.exe
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\bin\Debug\LeshaCalculator.pdb
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.csproj.AssemblyReference.cache
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.Form1.resources
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.Properties.Resources.resources
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.csproj.GenerateResource.cache
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.exe
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.pdb
+C:\Users\1710\Desktop\LeshaCalculator\LeshaCalculator\obj\Debug\LeshaCalculator.exe.config
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\bin\Debug\LeshaCalculator.exe.config
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\bin\Debug\LeshaCalculator.exe
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\bin\Debug\LeshaCalculator.pdb
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.csproj.AssemblyReference.cache
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.exe.config
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.Form1.resources
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.Properties.Resources.resources
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.csproj.GenerateResource.cache
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.exe
+C:\Users\1710\Desktop\LeshaCalculator - RUS\LeshaCalculator\obj\Debug\LeshaCalculator.pdb
